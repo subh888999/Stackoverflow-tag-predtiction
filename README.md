@@ -71,9 +71,12 @@ The system aims to enhance **accuracy**, **speed**, and **consistency** in tag a
 
 The app is deployed on **Hugging Face Spaces** for live demo and usage.
 
-> 🔗 [https://huggingface.co/spaces/Subh777/stackoverflow_tag_prediction](#) 
+>  🔗 [Live Demo Link](#) *(https://huggingface.co/spaces/Subh777/stackoverflow_tag_prediction)*
 
 ---
+## 📝 License
 
-## 📂 Folder Structure (Optional)
+This project is licensed under the [MIT License](LICENSE).
+
+
 
